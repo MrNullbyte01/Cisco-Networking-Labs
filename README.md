@@ -38,6 +38,10 @@ Cisco-Networking-Labs/
 └── notes/
 ```
 
+## Documentation template
+
+- [Networking lab report template](docs/lab-report-template.md)
+
 ## Lab documentation standard
 
 Each lab should include:
