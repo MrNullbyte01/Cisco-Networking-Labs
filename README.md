@@ -66,3 +66,7 @@ These are educational simulations and practice labs. They are not presented as p
 
 ---
 *Personal networking study project by MrNullbyte01.*
+
+## Existing lab files and evidence
+
+The original Packet Tracer project files are stored in [`labs/`](labs/), and the matching topology screenshots are in [`evidence/`](evidence/). The full descriptions, objectives, learning notes, and verification guidance are collected in the [Lab Catalogue](docs/lab-catalog.md).
