@@ -2,7 +2,7 @@
 
 A collection of networking practice projects created while studying routing, switching, and CCNA-level concepts with **Cisco Packet Tracer**.
 
-> **Status:** Learning collection. Individual labs will be documented as their topology files, screenshots, and verification notes are ready.
+> **Status:** Nine Packet Tracer lab files and nine matching topology screenshots are published. The lab catalogue documents all nine; command output and troubleshooting evidence can continue to be expanded.
 
 ## Goals
 
@@ -25,17 +25,16 @@ The portfolio learning work has included practice with:
 
 These topics describe the learning scope; each lab should include its own evidence before being presented as a completed implementation.
 
-## Suggested repository structure
+## Repository structure
 
 ```text
 Cisco-Networking-Labs/
 ├── README.md
-├── labs/
-│   ├── vlan-inter-vlan-routing/
-│   ├── ospf-nat-gre/
-│   └── acl-and-services/
-├── screenshots/
-└── notes/
+├── docs/
+│   ├── lab-catalog.md
+│   └── lab-report-template.md
+├── evidence/          # 9 matching topology screenshots
+└── labs/              # 9 Cisco Packet Tracer .pkt files
 ```
 
 ## Documentation template
